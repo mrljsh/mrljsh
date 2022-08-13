@@ -1,10 +1,10 @@
 # 👋 Hi, I’m @mrljsh
 ## About me
 
-- 👀 I’m interested in ...
+- 👀 I’m interested in developing web apps
 - 🌱 I’m currently learning React
-- 💞️ I’m looking to collaborate on test
-- 📫 How to reach me test
+- 👨🏽‍💻 I'm currently working on my portfolio and expanding my skillset
+
 
 ## SKILLS
 **Languages**
